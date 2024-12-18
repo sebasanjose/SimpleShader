@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		A4E5DF402D108FDD004AF944 /* SimpleShader */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SimpleShader; sourceTree = BUILT_PRODUCTS_DIR; };
 		A4E5DF4A2D109092004AF944 /* SquareShader.metal */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.metal; path = SquareShader.metal; sourceTree = "<group>"; };
+		A4E5DF792D13328B004AF944 /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -52,6 +53,7 @@
 				A4E5DF4A2D109092004AF944 /* SquareShader.metal */,
 				A4E5DF422D108FDD004AF944 /* SimpleShader */,
 				A4E5DF412D108FDD004AF944 /* Products */,
+				A4E5DF792D13328B004AF944 /* readme.md */,
 			);
 			sourceTree = "<group>";
 		};
