@@ -27,7 +27,7 @@ guard let computePipelineState = try? device.makeComputePipelineState(function: 
     fatalError("Failed to create compute pipeline state.")
 }
 
-let inputValues : [Float] = [1.0, 2.0, 3.0, 4.0, 5.0]
+let inputValues : [Float] = [1.3, 3.0, 6.2]
 let inputSize = inputValues.count * MemoryLayout<Float>.size
 
 // Create Metal buffers
